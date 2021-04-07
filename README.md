@@ -1,5 +1,6 @@
 # dockerenjenkins
 Dockerfile para instalar Docker en el contenedor de Jenkins
+docker-compose up -d
 Install Jenkins
 mkdir -p /var/jenkins_home
 
